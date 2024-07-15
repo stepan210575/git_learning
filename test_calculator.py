@@ -5,6 +5,7 @@ from calculator import Calculator
 # 1. Разработчику 1 — реализовать функцию деления
 
 
+
 calc = Calculator()
 calc.sum(10, 5)
 calc.print_last_res()
